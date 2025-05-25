@@ -37,3 +37,9 @@ button:disabled {
     color: red;
     margin-bottom: 0.5rem;
 }
+
+.loader {
+    margin: 10px 0;
+    color: #007bff;
+    font-weight: bold;
+}
